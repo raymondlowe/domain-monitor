@@ -1,0 +1,5 @@
+requests>=2.27.1
+progress>=1.6
+pandas-read-xml>=0.3.1
+certifi>=2021.10.8
+python-certifi-win32>=1.6
