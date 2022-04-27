@@ -127,3 +127,11 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# data files
+.csv
+
+# activation on windows
+*.cmd
+domains copy.csv
+domains.csv
