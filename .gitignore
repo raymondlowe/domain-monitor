@@ -135,3 +135,5 @@ dmypy.json
 *.cmd
 domains copy.csv
 domains.csv
+
+.vscode
